@@ -1,6 +1,6 @@
 # GIDSOpenStandaarden-Templates
 
-This repository contains teomplates we use to organise GIDS Open Standaarden Github.
+This repository contains templates we use to organise GIDS Open Standaarden Github.
 
 ## Naming of repositories
 
