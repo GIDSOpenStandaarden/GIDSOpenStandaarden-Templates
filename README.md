@@ -7,9 +7,9 @@ This repository contains templates we use to organise GIDS Open Standaarden Gith
 Open[name of standard in 3 capitals]-[name of component beginning with capital]-[naming like Protocol and Emulator or programming lanuage starting either capitals or start with capital]
 
 Examples:
-OpenSNS-Launch-Protocol
-OpenSNS-LaunchIdentity-Java
-OpenSNS-LaunchSamenBeter-PHP
+- OpenSNS-Launch-Protocol
+- OpenSNS-LaunchIdentity-Java
+- OpenSNS-LaunchSamenBeter-PHP
 
 
 ## Naming of repositories concerning topics on GIDS Open Standaarden in general
