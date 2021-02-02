@@ -24,4 +24,8 @@ Examples:
 
 GIDSOpenStandaarden-[name of topic starting with a capital]
 
-Example: GIDSOpenStandaarden-LegalDocuments
+Examples:
+- GIDSOpenStandaarden-LegalDocuments
+- GIDSOpenStandaarden-SecurityFramework
+- GIDSOpenStandaarden-Templates
+
