@@ -11,7 +11,7 @@ Examples:
 - OpenSNS-LaunchIdentity-Java
 - OpenSNS-LaunchSamenBeter-PHP
 
-## Naming of repositories concerning GIDS Open Standaarden common functions
+## Naming of repositories concerning GIDS Open Standaarden shared functions
 
 GIDS-[name of standard in 3 capitals]-[name of component beginning with capital]-[naming like Protocol and Emulator or programming lanuage starting either capitals or start with capital]
 
